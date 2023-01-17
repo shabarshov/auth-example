@@ -1,0 +1,13 @@
+.container {
+  display: flex;
+  align-items: center;
+  padding: 2px;
+  max-width: 100%;
+  border-radius: 6px;
+  background-color: inherit;
+}
+
+.alert {
+  color: #eee;
+  font-size: inherit;
+}

@@ -1,0 +1,13 @@
+.inputForm {
+  display: flex;
+  align-items: center;
+  width: 308px;
+  height: 38px;
+  margin: 10px;
+  padding: 0;
+  border: 0;
+  border-radius: 4px;
+  background-color: inherit;
+  border: rgb(111, 111, 111) solid 2px;
+  padding: 2px;
+}

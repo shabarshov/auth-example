@@ -1,0 +1,17 @@
+.switchButton {
+  background-color: #e5b333;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 90px;
+  height: 30px;
+  border: 0;
+  margin-bottom: 10px;
+  border-radius: 4px;
+  color: white;
+  font-size: 16px;
+  font-weight: 600;
+  cursor: pointer;
+  user-select: none;
+  margin-top: auto;
+}

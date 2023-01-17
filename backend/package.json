@@ -1,0 +1,33 @@
+{
+  "name": "typing-trainer-backend",
+  "version": "1.0.0",
+  "description": "Typing trainer",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js",
+    "frontend": "npm run start --prefix frontend"
+  },
+  "keywords": [
+    "typing",
+    "trainer",
+    "practice",
+    "mern",
+    "react"
+  ],
+  "author": "Alexey Shabarshov <shabarshov3228@mail.ru>",
+  "license": "ISC",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "config": "^3.3.8",
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "express-validator": "^6.14.2",
+    "jsonwebtoken": "^9.0.0",
+    "mongoose": "^6.8.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}

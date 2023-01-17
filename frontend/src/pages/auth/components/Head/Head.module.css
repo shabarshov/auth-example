@@ -1,0 +1,6 @@
+.head {
+  display: flex;
+  justify-content: space-between;
+  width: 320px;
+  margin-bottom: 2px;
+}

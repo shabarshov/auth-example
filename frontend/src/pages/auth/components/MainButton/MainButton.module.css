@@ -1,0 +1,16 @@
+.mainButton {
+  background-color: #e5b333;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 320px;
+  height: 46px;
+  border: 0;
+  border-radius: 4px;
+  margin: 10px;
+  color: #eee;
+  font-weight: 600;
+  font-size: 24px;
+  cursor: pointer;
+  user-select: none;
+}
