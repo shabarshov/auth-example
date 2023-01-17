@@ -23,4 +23,5 @@ Also this project uses [**JWT (JSON Web Tokens)**](https://www.npmjs.com/package
 ---
 
 I develeped this code for my future projects, that will have authorization routes
+
 Also I did it just for **practice** :D
